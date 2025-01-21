@@ -30,7 +30,7 @@ This project is a **Graphical User Interface (GUI)** designed to streamline task
 *Figure 1: Enter a given task.*
 
 ![Dynamic Progress Bar](./images/Screen_two.png)
-*Figure 2: The new task is added, algorithm runs to optimize schedule.*
+*Figure 2: The new task is added, algorithm runs to optimize schedule. Notice that it still recommends spending an hour working on my Computer Science homework.*
 
 ![Dynamic Progress Bar](./images/Screen_three.png)
 *Figure 3: Once a task is completed, the bar and percentage are increased.*
